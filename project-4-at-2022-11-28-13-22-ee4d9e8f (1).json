@@ -1,0 +1,2302 @@
+[
+  {
+    "image": "/data/upload/4/ae84baad-download.jfif",
+    "id": 302,
+    "label": [
+      {
+        "x": 21.524064171122994,
+        "y": 3.392857142857143,
+        "width": 56.55080213903744,
+        "height": 88.21428571428571,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 259,
+        "original_height": 194
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 200,
+    "created_at": "2022-11-28T09:22:26.756492Z",
+    "updated_at": "2022-11-28T09:22:26.756492Z",
+    "lead_time": 4.657
+  },
+  {
+    "image": "/data/upload/4/90b84c0e-1.jfif",
+    "id": 301,
+    "label": [
+      {
+        "x": 19.642857142857142,
+        "y": 14.285714285714283,
+        "width": 63.392857142857146,
+        "height": 75.35714285714286,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 225,
+        "original_height": 225
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 199,
+    "created_at": "2022-11-28T09:22:20.366054Z",
+    "updated_at": "2022-11-28T09:22:20.366054Z",
+    "lead_time": 10.855
+  },
+  {
+    "image": "/data/upload/4/e3a50f92-Samsung_A40.jpg",
+    "id": 300,
+    "label": [
+      {
+        "x": 8.833522083805207,
+        "y": 8.571428571428571,
+        "width": 84.59796149490374,
+        "height": 83.07692307692308,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 1920,
+        "original_height": 989
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 198,
+    "created_at": "2022-11-28T09:19:44.363069Z",
+    "updated_at": "2022-11-28T09:19:44.363069Z",
+    "lead_time": 5.067
+  },
+  {
+    "image": "/data/upload/4/20e90476-WhatsApp-Image-2020-10-02-at-11.35.52.jpeg",
+    "id": 299,
+    "label": [
+      {
+        "x": 23.556058890147224,
+        "y": 11.608961303462321,
+        "width": 34.20158550396377,
+        "height": 86.35437881873727,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 1200,
+        "original_height": 667
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 197,
+    "created_at": "2022-11-28T09:19:38.060864Z",
+    "updated_at": "2022-11-28T09:19:38.060864Z",
+    "lead_time": 5.37
+  },
+  {
+    "image": "/data/upload/4/959d19d3-tXjAZDmY6gDAiv9WxaBWnP.jpg",
+    "id": 298,
+    "label": [
+      {
+        "x": 20.15855039637599,
+        "y": 12.298387096774194,
+        "width": 20.2718006795017,
+        "height": 60.28225806451613,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 3809,
+        "original_height": 2140
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 196,
+    "created_at": "2022-11-28T09:19:29.944695Z",
+    "updated_at": "2022-11-28T09:19:29.944695Z",
+    "lead_time": 4.651
+  },
+  {
+    "image": "/data/upload/4/811d88f3-thumbnails_large__default_upload_bucket_03_bf3834489e39e3e3a97099d5461_uKnFyRG.png",
+    "id": 297,
+    "label": [
+      {
+        "x": 30.8411214953271,
+        "y": 9.285714285714286,
+        "width": 37.53894080996885,
+        "height": 79.64285714285714,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 600,
+        "original_height": 523
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 195,
+    "created_at": "2022-11-28T09:19:23.562439Z",
+    "updated_at": "2022-11-28T09:19:23.562439Z",
+    "lead_time": 5.098
+  },
+  {
+    "image": "/data/upload/4/a17a18ca-thumb_613788_phone_front_big.jpg",
+    "id": 296,
+    "label": [
+      {
+        "x": 2.2813688212927756,
+        "y": 1.6071428571428568,
+        "width": 97.71863117870723,
+        "height": 97.32142857142857,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 282,
+        "original_height": 600
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 194,
+    "created_at": "2022-11-28T09:19:15.879959Z",
+    "updated_at": "2022-11-28T09:19:15.880194Z",
+    "lead_time": 5.963
+  },
+  {
+    "image": "/data/upload/4/664038f8-These-Galaxy-S7-S7-Edge-and-Galaxy-S6-deals-are-a-bargain-hunters-wet-dream.jpg",
+    "id": 295,
+    "label": [
+      {
+        "x": 6.116505816045882,
+        "y": 12.336191554764602,
+        "width": 88.34952845399606,
+        "height": 82.5109205630157,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 350,
+        "original_height": 196
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 193,
+    "created_at": "2022-11-28T09:19:06.547870Z",
+    "updated_at": "2022-11-28T09:19:06.547870Z",
+    "lead_time": 6.808
+  },
+  {
+    "image": "/data/upload/4/9eb14232-sony-xperia-5-iv-5g-front-1.jpg",
+    "id": 292,
+    "label": [
+      {
+        "x": 25.35714285714285,
+        "y": 2.3214285714285716,
+        "width": 49.107142857142854,
+        "height": 97.67857142857143,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 500,
+        "original_height": 500
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 192,
+    "created_at": "2022-11-28T09:18:46.305998Z",
+    "updated_at": "2022-11-28T09:18:46.305998Z",
+    "lead_time": 5.072
+  },
+  {
+    "image": "/data/upload/4/564ac116-Sony-Xperia-5-III-front-in-hand.jpg",
+    "id": 291,
+    "label": [
+      {
+        "x": 34.65458663646659,
+        "y": 2.2132796780684103,
+        "width": 31.710079275198186,
+        "height": 93.96378269617706,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 191,
+    "created_at": "2022-11-28T09:18:37.854718Z",
+    "updated_at": "2022-11-28T09:18:37.854718Z",
+    "lead_time": 3.77
+  },
+  {
+    "image": "/data/upload/4/e1ce3bcc-Sony_Xperia5_IV_TOP.jpeg",
+    "id": 290,
+    "label": [
+      {
+        "x": 19.59229898074745,
+        "y": 5.030181086519115,
+        "width": 54.13363533408833,
+        "height": 80.48289738430584,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 1920,
+        "original_height": 1081
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 190,
+    "created_at": "2022-11-28T09:18:32.858563Z",
+    "updated_at": "2022-11-28T09:18:32.858563Z",
+    "lead_time": 3.755
+  },
+  {
+    "image": "/data/upload/4/4f70e80a-Sony_Xperia_T2_ultra_cover_NDTV.jpg",
+    "id": 289,
+    "label": [
+      {
+        "x": 20.615796519410978,
+        "y": 1.7857142857142854,
+        "width": 35.34136546184739,
+        "height": 94.28571428571426,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 635,
+        "original_height": 476
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 189,
+    "created_at": "2022-11-28T09:18:27.283810Z",
+    "updated_at": "2022-11-28T09:18:27.283810Z",
+    "lead_time": 8.995
+  },
+  {
+    "image": "/data/upload/4/670b1bde-SMdeqU924FKMd9jyxnbvVU-1200-80.jpg",
+    "id": 288,
+    "label": [
+      {
+        "x": 36.69309173272934,
+        "y": 2.61569416498994,
+        "width": 28.425821064552657,
+        "height": 94.76861167002012,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 1200,
+        "original_height": 675
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 188,
+    "created_at": "2022-11-28T09:18:14.944910Z",
+    "updated_at": "2022-11-28T09:18:14.944910Z",
+    "lead_time": 6.318
+  },
+  {
+    "image": "/data/upload/4/b2dfb019-sgs22p-cov-sho-sel-1-1111805-1656685441.jpg",
+    "id": 287,
+    "label": [
+      {
+        "x": 14.173228346456693,
+        "y": 4.642857142857143,
+        "width": 72.70341207349081,
+        "height": 85.71428571428571,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 680,
+        "original_height": 500
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 187,
+    "created_at": "2022-11-28T09:18:07.570857Z",
+    "updated_at": "2022-11-28T09:18:07.570857Z",
+    "lead_time": 3.732
+  },
+  {
+    "image": "/data/upload/4/912d4989-Samsung-Galaxy-S22-Plus-FB.jpg",
+    "id": 286,
+    "label": [
+      {
+        "x": 34.20158550396377,
+        "y": 2.8513238289205702,
+        "width": 35.67383918459795,
+        "height": 88.59470468431772,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 1200,
+        "original_height": 667
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 186,
+    "created_at": "2022-11-28T09:17:58.836626Z",
+    "updated_at": "2022-11-28T09:17:58.836626Z",
+    "lead_time": 4.955
+  },
+  {
+    "image": "/data/upload/4/968c48c1-samsung-galaxy-s10-plus-screen.jpg",
+    "id": 285,
+    "label": [
+      {
+        "x": 16.890080428954423,
+        "y": 5.178571428571429,
+        "width": 69.70509383378018,
+        "height": 87.67857142857143,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 400,
+        "original_height": 600
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 185,
+    "created_at": "2022-11-28T09:17:43.105327Z",
+    "updated_at": "2022-11-28T09:17:43.105327Z",
+    "lead_time": 5.987
+  },
+  {
+    "image": "/data/upload/4/bdadc18f-Samsung-Galaxy-S10-Plus-red-reflection-at-angle.jpg",
+    "id": 284,
+    "label": [
+      {
+        "x": 20.611551528878824,
+        "y": 6.036217303822937,
+        "width": 60.362400906002264,
+        "height": 89.13480885311871,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 1920,
+        "original_height": 1081
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 184,
+    "created_at": "2022-11-28T09:17:34.157654Z",
+    "updated_at": "2022-11-28T09:17:34.158587Z",
+    "lead_time": 4.044
+  },
+  {
+    "image": "/data/upload/4/0b4d908a-Samsung-Galaxy-S7-Edge-catches-on-fire-after-freezing-and-then-shutting-down.jpg",
+    "id": 283,
+    "label": [
+      {
+        "x": 16.763756681014637,
+        "y": 3.4379550234589864,
+        "width": 62.41101304891261,
+        "height": 95.65604271153535,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 350,
+        "original_height": 196
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 183,
+    "created_at": "2022-11-28T09:17:27.861179Z",
+    "updated_at": "2022-11-28T09:17:27.861179Z",
+    "lead_time": 7.885
+  },
+  {
+    "image": "/data/upload/4/21db2541-samsung-galaxy-j7-j700f-2.jpg",
+    "id": 282,
+    "label": [
+      {
+        "x": 3.396707705915778,
+        "y": 1.897085960989014,
+        "width": 96.60329229408421,
+        "height": 96.94109260653863,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 660,
+        "original_height": 394
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 182,
+    "created_at": "2022-11-28T09:17:14.363917Z",
+    "updated_at": "2022-11-28T09:17:14.363917Z",
+    "lead_time": 7.143
+  },
+  {
+    "image": "/data/upload/4/1b52bc7a-samsung-galaxy-j5-2016-front.png",
+    "id": 281,
+    "label": [
+      {
+        "x": 21.964285714285715,
+        "y": 2.142857142857143,
+        "width": 53.035714285714285,
+        "height": 97.14285714285714,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 500,
+        "original_height": 500
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 181,
+    "created_at": "2022-11-28T09:17:05.498369Z",
+    "updated_at": "2022-11-28T09:17:05.498369Z",
+    "lead_time": 17.601
+  },
+  {
+    "image": "/data/upload/4/5cf91487-Samsung-Galaxy-A51-back-standing-up.jpg",
+    "id": 280,
+    "label": [
+      {
+        "x": 34.994337485843715,
+        "y": 4.225352112676056,
+        "width": 31.03057757644393,
+        "height": 92.5553319919517,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 1919,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 180,
+    "created_at": "2022-11-28T09:16:46.715476Z",
+    "updated_at": "2022-11-28T09:16:46.715476Z",
+    "lead_time": 3.5
+  },
+  {
+    "image": "/data/upload/4/949fc1a7-Samsung-Galaxy-A31-Review.jpg",
+    "id": 279,
+    "label": [
+      {
+        "x": 29.931972789115648,
+        "y": 6.8645640074211505,
+        "width": 41.26984126984126,
+        "height": 82.74582560296847,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 900,
+        "original_height": 550
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 179,
+    "created_at": "2022-11-28T09:16:40.571059Z",
+    "updated_at": "2022-11-28T09:16:40.571059Z",
+    "lead_time": 3.663
+  },
+  {
+    "image": "/data/upload/4/89a6406d-Samsung-Galaxy-A31-Hands-On-Review-9.jpg",
+    "id": 278,
+    "label": [
+      {
+        "x": 22.5,
+        "y": 4.285714285714286,
+        "width": 62.67857142857143,
+        "height": 81.25,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 178,
+    "created_at": "2022-11-28T09:16:34.408558Z",
+    "updated_at": "2022-11-28T09:16:34.408558Z",
+    "lead_time": 6.804
+  },
+  {
+    "image": "/data/upload/4/3f3cd489-Samsung_Galaxy_S_Series_Hands_On_29_von_3339.jpg",
+    "id": 277,
+    "label": [
+      {
+        "x": 35.23809523809525,
+        "y": 0.8928571428571427,
+        "width": 36.78571428571429,
+        "height": 91.96428571428571,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 2160,
+        "original_height": 1440
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 177,
+    "created_at": "2022-11-28T09:16:25.426299Z",
+    "updated_at": "2022-11-28T09:16:25.426299Z",
+    "lead_time": 4.304
+  },
+  {
+    "image": "/data/upload/4/918c2cd1-sa_en-galaxy-j5-2017-j530f-ds-sm-j530fzddksa-000000001-front-gold-72986189.png",
+    "id": 276,
+    "label": [
+      {
+        "x": 31.785714285714285,
+        "y": 0.8928571428571427,
+        "width": 35.83333333333334,
+        "height": 97.85714285714283,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 3000,
+        "original_height": 2000
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 176,
+    "created_at": "2022-11-28T09:16:19.516640Z",
+    "updated_at": "2022-11-28T09:16:19.516640Z",
+    "lead_time": 8.598
+  },
+  {
+    "image": "/data/upload/4/60c701e7-S22-Ultra-small-560858c.jpg",
+    "id": 275,
+    "label": [
+      {
+        "x": 40.88335220838052,
+        "y": 4.18848167539267,
+        "width": 26.500566251415634,
+        "height": 88.7434554973822,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 1200,
+        "original_height": 519
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 175,
+    "created_at": "2022-11-28T09:16:09.300377Z",
+    "updated_at": "2022-11-28T09:16:09.300377Z",
+    "lead_time": 4.606
+  },
+  {
+    "image": "/data/upload/4/f1fc676c-product_14691653040180110.jpg",
+    "id": 274,
+    "label": [
+      {
+        "x": 28.857142857142858,
+        "y": 3.9285714285714284,
+        "width": 45.714285714285715,
+        "height": 92.67857142857143,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 230,
+        "original_height": 184
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 174,
+    "created_at": "2022-11-28T09:16:02.369570Z",
+    "updated_at": "2022-11-28T09:16:02.369570Z",
+    "lead_time": 5.259
+  },
+  {
+    "image": "/data/upload/4/20c8fadf-Poco-M3-first-look-7.jpg",
+    "id": 273,
+    "label": [
+      {
+        "x": 22.61904761904762,
+        "y": 5.714285714285714,
+        "width": 64.52380952380955,
+        "height": 85.17857142857143,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 1200,
+        "original_height": 800
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 173,
+    "created_at": "2022-11-28T09:15:55.594470Z",
+    "updated_at": "2022-11-28T09:15:55.594470Z",
+    "lead_time": 4.535
+  },
+  {
+    "image": "/data/upload/4/d6cea322-poco-f4-gt_1jpg-20220702044445.jpg",
+    "id": 272,
+    "label": [
+      {
+        "x": 9.761904761904763,
+        "y": 3.392857142857143,
+        "width": 83.33333333333336,
+        "height": 90.71428571428571,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 900,
+        "original_height": 600
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 172,
+    "created_at": "2022-11-28T09:15:46.050065Z",
+    "updated_at": "2022-11-28T09:15:46.050065Z",
+    "lead_time": 5.418
+  },
+  {
+    "image": "/data/upload/4/183e1c2f-Original-Samsung-Jelly-Cover-EF-AJ530TF-for-Galaxy-J5-2017-Gold-22062017-01-p.jpg",
+    "id": 271,
+    "label": [
+      {
+        "x": 27.500000000000007,
+        "y": 0.5357142857142857,
+        "width": 47.5,
+        "height": 96.42857142857143,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 171,
+    "created_at": "2022-11-28T09:15:37.535147Z",
+    "updated_at": "2022-11-28T09:15:37.535147Z",
+    "lead_time": 4.299
+  },
+  {
+    "image": "/data/upload/4/cc50914b-MPTP3.jpeg",
+    "id": 270,
+    "label": [
+      {
+        "x": 23.75,
+        "y": 1.6071428571428568,
+        "width": 49.2857142857143,
+        "height": 93.21428571428574,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 1144,
+        "original_height": 1144
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 170,
+    "created_at": "2022-11-28T09:15:30.374117Z",
+    "updated_at": "2022-11-28T09:15:30.374117Z",
+    "lead_time": 13.403
+  },
+  {
+    "image": "/data/upload/4/e4ccfa17-maxresdefault.jpg",
+    "id": 269,
+    "label": [
+      {
+        "x": 5.209513023782559,
+        "y": 2.414486921529175,
+        "width": 87.08946772366932,
+        "height": 91.54929577464789,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 1280,
+        "original_height": 720
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 169,
+    "created_at": "2022-11-28T09:15:14.188322Z",
+    "updated_at": "2022-11-28T09:15:14.188322Z",
+    "lead_time": 6.395
+  },
+  {
+    "image": "/data/upload/4/261d39d4-maxresdefault_1.jpg",
+    "id": 268,
+    "label": [
+      {
+        "x": 19.25254813137033,
+        "y": 3.8229376257545273,
+        "width": 71.80067950169875,
+        "height": 96.17706237424547,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 1280,
+        "original_height": 720
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 168,
+    "created_at": "2022-11-28T09:15:03.183545Z",
+    "updated_at": "2022-11-28T09:15:03.183545Z",
+    "lead_time": 13.156
+  },
+  {
+    "image": "/data/upload/4/c2918dfa-i-tried-the-iphone-x-and-the-killer-feature-is-it-2-2546-1509659724-0_dblbig.jpg",
+    "id": 267,
+    "label": [
+      {
+        "x": 25.97864768683274,
+        "y": 11.25,
+        "width": 42.11150652431791,
+        "height": 86.96428571428572,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 1200,
+        "original_height": 797
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 167,
+    "created_at": "2022-11-28T09:14:47.508073Z",
+    "updated_at": "2022-11-28T09:14:47.508073Z",
+    "lead_time": 7.975
+  },
+  {
+    "image": "/data/upload/4/7da75b16-iphone-14-pro-max-gold-witb-202209_FMT_WHH.jpeg",
+    "id": 266,
+    "label": [
+      {
+        "x": 14.218009478672986,
+        "y": 18.21428571428571,
+        "width": 74.17061611374407,
+        "height": 81.78571428571428,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 560,
+        "original_height": 744
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 166,
+    "created_at": "2022-11-28T09:14:37.032278Z",
+    "updated_at": "2022-11-28T09:14:37.032278Z",
+    "lead_time": 6.298
+  },
+  {
+    "image": "/data/upload/4/ec685894-iphone-14-pro_overview__e414c54gtu6a_og.png",
+    "id": 265,
+    "label": [
+      {
+        "x": 18.253968253968253,
+        "y": 57.235421166306715,
+        "width": 61.564625850340136,
+        "height": 42.76457883369331,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 1200,
+        "original_height": 630
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 165,
+    "created_at": "2022-11-28T09:14:25.779112Z",
+    "updated_at": "2022-11-28T09:14:25.779112Z",
+    "lead_time": 7.706
+  },
+  {
+    "image": "/data/upload/4/2d7ba428-iPhone-8-Silver-Price-in-Srilanka_5.jpg",
+    "id": 264,
+    "label": [
+      {
+        "x": 24.464285714285708,
+        "y": 3.75,
+        "width": 55.17857142857143,
+        "height": 92.14285714285714,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 1024,
+        "original_height": 1024
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 164,
+    "created_at": "2022-11-28T09:14:15.617207Z",
+    "updated_at": "2022-11-28T09:14:15.617207Z",
+    "lead_time": 8.578
+  },
+  {
+    "image": "/data/upload/4/6598c258-iphone7-plus-gold.png",
+    "id": 263,
+    "label": [
+      {
+        "x": 0.7194244604316549,
+        "y": 0.35714285714285715,
+        "width": 99.28057553956835,
+        "height": 99.64285714285714,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 350,
+        "original_height": 704
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 163,
+    "created_at": "2022-11-28T09:14:03.609917Z",
+    "updated_at": "2022-11-28T09:14:03.609917Z",
+    "lead_time": 7.942
+  },
+  {
+    "image": "/data/upload/4/56b11990-iphone-5s-dolu-kasa-a1453a1457a1518a1528-3-renk-4236-iphone-5s-a1453a1_S53RfL8.jpg",
+    "id": 262,
+    "label": [
+      {
+        "x": 2.5,
+        "y": 25.178571428571427,
+        "width": 97.5,
+        "height": 54.64285714285713,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 1000,
+        "original_height": 1000
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 162,
+    "created_at": "2022-11-28T09:13:52.511823Z",
+    "updated_at": "2022-11-28T09:13:52.511823Z",
+    "lead_time": 7.488
+  },
+  {
+    "image": "/data/upload/4/ebd12431-ip4main.jpg.cf.jpg",
+    "id": 261,
+    "label": [
+      {
+        "x": 14.928909952606634,
+        "y": 6.071428571428571,
+        "width": 68.72037914691943,
+        "height": 90.17857142857143,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 600,
+        "original_height": 398
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 161,
+    "created_at": "2022-11-28T09:13:36.981918Z",
+    "updated_at": "2022-11-28T09:13:36.981918Z",
+    "lead_time": 14.098
+  },
+  {
+    "image": "/data/upload/4/e4d50578-images.jpeg",
+    "id": 260,
+    "label": [
+      {
+        "x": 10.962566844919783,
+        "y": 6.428571428571427,
+        "width": 70.58823529411767,
+        "height": 83.57142857142857,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 259,
+        "original_height": 194
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 160,
+    "created_at": "2022-11-28T09:13:18.903689Z",
+    "updated_at": "2022-11-28T09:13:18.903689Z",
+    "lead_time": 9.671
+  },
+  {
+    "image": "/data/upload/4/51429c3a-images_12.jpeg",
+    "id": 259,
+    "label": [
+      {
+        "x": 9.971154680401204,
+        "y": 3.015375636598601,
+        "width": 80.22247174686423,
+        "height": 96.98462436340141,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 310,
+        "original_height": 163
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 159,
+    "created_at": "2022-11-28T09:13:05.530862Z",
+    "updated_at": "2022-11-28T09:13:05.530862Z",
+    "lead_time": 13.699
+  },
+  {
+    "image": "/data/upload/4/4bfb4df6-images_11.jpeg",
+    "id": 258,
+    "label": [
+      {
+        "x": 18.21428571428571,
+        "y": 11.607142857142858,
+        "width": 77.14285714285715,
+        "height": 76.96428571428572,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 225,
+        "original_height": 225
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 158,
+    "created_at": "2022-11-28T09:12:49.221694Z",
+    "updated_at": "2022-11-28T09:12:49.221694Z",
+    "lead_time": 8.3
+  },
+  {
+    "image": "/data/upload/4/32aea201-images_10.jpeg",
+    "id": 257,
+    "label": [
+      {
+        "x": 33.61945636623748,
+        "y": 9.642857142857144,
+        "width": 33.76251788268956,
+        "height": 79.82142857142858,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 251,
+        "original_height": 201
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 157,
+    "created_at": "2022-11-28T09:12:27.553978Z",
+    "updated_at": "2022-11-28T09:12:27.553978Z",
+    "lead_time": 11.928
+  },
+  {
+    "image": "/data/upload/4/d4cdd27d-images_9.jpeg",
+    "id": 256,
+    "label": [
+      {
+        "x": 32.219251336898395,
+        "y": 3.75,
+        "width": 38.23529411764706,
+        "height": 88.03571428571428,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 259,
+        "original_height": 194
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 156,
+    "created_at": "2022-11-28T09:12:12.357665Z",
+    "updated_at": "2022-11-28T09:12:12.357665Z",
+    "lead_time": 5.246
+  },
+  {
+    "image": "/data/upload/4/4c52d76f-images_8.jpeg",
+    "id": 255,
+    "label": [
+      {
+        "x": 0.9345794392523362,
+        "y": 0.5357142857142857,
+        "width": 99.06542056074767,
+        "height": 94.10714285714286,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 170,
+        "original_height": 297
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 155,
+    "created_at": "2022-11-28T09:11:15.024243Z",
+    "updated_at": "2022-11-28T09:12:04.998029Z",
+    "lead_time": 50.933
+  },
+  {
+    "image": "/data/upload/4/15e75c97-images_7.jpeg",
+    "id": 254,
+    "label": [
+      {
+        "x": 13.214285714285717,
+        "y": 7.5,
+        "width": 74.28571428571429,
+        "height": 86.07142857142858,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 225,
+        "original_height": 225
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 154,
+    "created_at": "2022-11-28T09:11:04.269290Z",
+    "updated_at": "2022-11-28T09:11:04.270288Z",
+    "lead_time": 5.237
+  },
+  {
+    "image": "/data/upload/4/62040a28-images_6.jpeg",
+    "id": 253,
+    "label": [
+      {
+        "x": 10.739856801909307,
+        "y": 3.0357142857142856,
+        "width": 68.73508353221955,
+        "height": 85.17857142857143,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 194,
+        "original_height": 259
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 153,
+    "created_at": "2022-11-28T09:10:56.019916Z",
+    "updated_at": "2022-11-28T09:10:56.019916Z",
+    "lead_time": 5.118
+  },
+  {
+    "image": "/data/upload/4/41165cbf-images_5.jpeg",
+    "id": 252,
+    "label": [
+      {
+        "x": 26.48456057007126,
+        "y": 3.9285714285714284,
+        "width": 47.26840855106888,
+        "height": 84.28571428571429,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 275,
+        "original_height": 183
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 152,
+    "created_at": "2022-11-28T09:10:47.701634Z",
+    "updated_at": "2022-11-28T09:10:47.701634Z",
+    "lead_time": 8.556
+  },
+  {
+    "image": "/data/upload/4/e055f484-images_4.jpeg",
+    "id": 251,
+    "label": [
+      {
+        "x": 34.49197860962567,
+        "y": 2.3214285714285716,
+        "width": 40.24064171122995,
+        "height": 93.57142857142857,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 259,
+        "original_height": 194
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 151,
+    "created_at": "2022-11-28T09:10:37.664343Z",
+    "updated_at": "2022-11-28T09:10:37.664343Z",
+    "lead_time": 6.636
+  },
+  {
+    "image": "/data/upload/4/118dac3f-images_3.jpeg",
+    "id": 250,
+    "label": [
+      {
+        "x": 31.714285714285715,
+        "y": 2.6785714285714284,
+        "width": 32.857142857142854,
+        "height": 79.46428571428571,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 230,
+        "original_height": 184
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 150,
+    "created_at": "2022-11-28T09:10:27.774249Z",
+    "updated_at": "2022-11-28T09:10:27.774249Z",
+    "lead_time": 4.001
+  },
+  {
+    "image": "/data/upload/4/faf6f1cc-images_2.jpeg",
+    "id": 249,
+    "label": [
+      {
+        "x": 5.663431311153594,
+        "y": 7.482607992234266,
+        "width": 90.16182647356523,
+        "height": 81.70198996926065,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 300,
+        "original_height": 168
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 149,
+    "created_at": "2022-11-28T09:10:19.729244Z",
+    "updated_at": "2022-11-28T09:10:19.729244Z",
+    "lead_time": 4.317
+  },
+  {
+    "image": "/data/upload/4/845714ab-images_1.jpeg",
+    "id": 248,
+    "label": [
+      {
+        "x": 34.660199624259995,
+        "y": 3.2357223750202233,
+        "width": 27.750813424652605,
+        "height": 89.99352855524995,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 300,
+        "original_height": 168
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 148,
+    "created_at": "2022-11-28T09:10:13.520196Z",
+    "updated_at": "2022-11-28T09:10:13.520196Z",
+    "lead_time": 4.793
+  },
+  {
+    "image": "/data/upload/4/9299dfa1-Huawei-P30-back-1.jpg",
+    "id": 247,
+    "label": [
+      {
+        "x": 36.919592298980746,
+        "y": 4.627766599597585,
+        "width": 28.992072480181207,
+        "height": 86.51911468812877,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 1919,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 147,
+    "created_at": "2022-11-28T09:10:07.146579Z",
+    "updated_at": "2022-11-28T09:10:07.146579Z",
+    "lead_time": 8.624
+  },
+  {
+    "image": "/data/upload/4/3fcaf9d7-HKHG2_AV1.jpeg",
+    "id": 246,
+    "label": [
+      {
+        "x": 35.35714285714286,
+        "y": 1.6071428571428568,
+        "width": 43.57142857142857,
+        "height": 92.3214285714286,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 2000,
+        "original_height": 2000
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 146,
+    "created_at": "2022-11-28T09:09:53.827449Z",
+    "updated_at": "2022-11-28T09:09:53.827449Z",
+    "lead_time": 6.059
+  },
+  {
+    "image": "/data/upload/4/fbd73f30-HERO.jpg",
+    "id": 245,
+    "label": [
+      {
+        "x": 6.157965194109773,
+        "y": 6.6071428571428585,
+        "width": 75.76974564926373,
+        "height": 93.39285714285714,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 4032,
+        "original_height": 3024
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 145,
+    "created_at": "2022-11-28T09:09:45.529850Z",
+    "updated_at": "2022-11-28T09:09:45.529850Z",
+    "lead_time": 6.586
+  },
+  {
+    "image": "/data/upload/4/c213d3ab-gsmarena_012.jpg",
+    "id": 244,
+    "label": [
+      {
+        "x": 18.430439952437574,
+        "y": 8.928571428571429,
+        "width": 58.263971462544596,
+        "height": 88.75,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 1200,
+        "original_height": 799
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 144,
+    "created_at": "2022-11-28T09:09:36.805854Z",
+    "updated_at": "2022-11-28T09:09:36.805854Z",
+    "lead_time": 4.477
+  },
+  {
+    "image": "/data/upload/4/82bd7485-gsmarena_000.jpg",
+    "id": 243,
+    "label": [
+      {
+        "x": 0.477326968973747,
+        "y": 1.0714285714285714,
+        "width": 78.99761336515513,
+        "height": 92.3214285714286,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 727,
+        "original_height": 486
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 143,
+    "created_at": "2022-11-28T09:09:27.124798Z",
+    "updated_at": "2022-11-28T09:09:27.124798Z",
+    "lead_time": 5.957
+  },
+  {
+    "image": "/data/upload/4/33684ba3-galaxy-a11-design.jpg",
+    "id": 242,
+    "label": [
+      {
+        "x": 40.5436013590034,
+        "y": 0,
+        "width": 34.428086070215166,
+        "height": 98.39034205231388,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 142,
+    "created_at": "2022-11-28T09:09:19.773683Z",
+    "updated_at": "2022-11-28T09:09:19.774682Z",
+    "lead_time": 6.573
+  },
+  {
+    "image": "/data/upload/4/8789a12f-eng_pl_Case-Body-Flap-Apple-iPhone-5S-Space-Grey-With-Flaw-52675_2.jpg",
+    "id": 241,
+    "label": [
+      {
+        "x": 2.0238095238095237,
+        "y": 2.5,
+        "width": 97.97619047619045,
+        "height": 93.21428571428574,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 1024,
+        "original_height": 683
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 141,
+    "created_at": "2022-11-28T09:09:06.957516Z",
+    "updated_at": "2022-11-28T09:09:06.957516Z",
+    "lead_time": 5.15
+  },
+  {
+    "image": "/data/upload/4/9cc2a8f8-DSCF7729_2.jpeg",
+    "id": 240,
+    "label": [
+      {
+        "x": 6.428571428571427,
+        "y": 5,
+        "width": 87.85714285714286,
+        "height": 85.71428571428571,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 1400,
+        "original_height": 1400
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 140,
+    "created_at": "2022-11-28T09:08:58.629095Z",
+    "updated_at": "2022-11-28T09:08:58.629095Z",
+    "lead_time": 4.761
+  },
+  {
+    "image": "/data/upload/4/b3511620-DSCF7373.jpg",
+    "id": 239,
+    "label": [
+      {
+        "x": 23.571428571428566,
+        "y": 0.8928571428571427,
+        "width": 61.250000000000014,
+        "height": 91.42857142857143,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 1400,
+        "original_height": 1400
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 139,
+    "created_at": "2022-11-28T09:08:50.707741Z",
+    "updated_at": "2022-11-28T09:08:50.707741Z",
+    "lead_time": 3.856
+  },
+  {
+    "image": "/data/upload/4/60557337-DSC00520.acr_crop.jpeg",
+    "id": 238,
+    "label": [
+      {
+        "x": 5.231866825208086,
+        "y": 12.678571428571425,
+        "width": 86.20689655172411,
+        "height": 73.57142857142858,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 590,
+        "original_height": 393
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 138,
+    "created_at": "2022-11-28T09:08:44.841574Z",
+    "updated_at": "2022-11-28T09:08:44.841574Z",
+    "lead_time": 4.935
+  },
+  {
+    "image": "/data/upload/4/fa733a33-download.jpeg",
+    "id": 237,
+    "label": [
+      {
+        "x": 27.19714964370547,
+        "y": 8.035714285714286,
+        "width": 43.111638954869356,
+        "height": 74.10714285714286,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 275,
+        "original_height": 183
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 137,
+    "created_at": "2022-11-28T09:08:37.561055Z",
+    "updated_at": "2022-11-28T09:08:37.561055Z",
+    "lead_time": 7.272
+  },
+  {
+    "image": "/data/upload/4/c2aab9f6-download_2.jpeg",
+    "id": 236,
+    "label": [
+      {
+        "x": 26.840855106888363,
+        "y": 0.17857142857142858,
+        "width": 51.06888361045131,
+        "height": 98.5714285714286,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 275,
+        "original_height": 183
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 136,
+    "created_at": "2022-11-28T09:08:27.904322Z",
+    "updated_at": "2022-11-28T09:08:27.904322Z",
+    "lead_time": 7.877
+  },
+  {
+    "image": "/data/upload/4/864f76ac-download_1.jpeg",
+    "id": 235,
+    "label": [
+      {
+        "x": 33.01662707838481,
+        "y": 3.392857142857143,
+        "width": 42.161520190023765,
+        "height": 82.5,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 275,
+        "original_height": 183
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 135,
+    "created_at": "2022-11-28T09:08:18.485272Z",
+    "updated_at": "2022-11-28T09:08:18.485272Z",
+    "lead_time": 5.544
+  },
+  {
+    "image": "/data/upload/4/e6f5c9af-design-features.jpg",
+    "id": 234,
+    "label": [
+      {
+        "x": 3.4805890227576977,
+        "y": 8.035714285714286,
+        "width": 96.25167336010709,
+        "height": 62.142857142857146,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 480,
+        "original_height": 360
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 134,
+    "created_at": "2022-11-28T09:08:10.757773Z",
+    "updated_at": "2022-11-28T09:08:10.757773Z",
+    "lead_time": 4.045
+  },
+  {
+    "image": "/data/upload/4/b33c7e43-d1786005dbb59b0fa39098b11d4e0374-320-80.jpg",
+    "id": 233,
+    "label": [
+      {
+        "x": 10.532276330690827,
+        "y": 4.627766599597585,
+        "width": 78.3691959229898,
+        "height": 91.95171026156942,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 320,
+        "original_height": 180
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 133,
+    "created_at": "2022-11-28T09:08:04.092159Z",
+    "updated_at": "2022-11-28T09:08:04.092159Z",
+    "lead_time": 5.782
+  },
+  {
+    "image": "/data/upload/4/62204416-csm_SM_A515_GalaxyA51_Blue_Back_b62e87d010.jpg",
+    "id": 232,
+    "label": [
+      {
+        "x": 31.904761904761894,
+        "y": 2.142857142857143,
+        "width": 36.07142857142857,
+        "height": 96.60714285714286,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 1800,
+        "original_height": 1200
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 132,
+    "created_at": "2022-11-28T09:07:56.836523Z",
+    "updated_at": "2022-11-28T09:07:56.836523Z",
+    "lead_time": 13.635
+  },
+  {
+    "image": "/data/upload/4/a6b6edf3-Common_M007_S10_720.jpg",
+    "id": 231,
+    "label": [
+      {
+        "x": 28.571428571428566,
+        "y": 8.035714285714286,
+        "width": 39.64285714285714,
+        "height": 72.5,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 720,
+        "original_height": 720
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 131,
+    "created_at": "2022-11-28T09:07:40.168252Z",
+    "updated_at": "2022-11-28T09:07:40.168252Z",
+    "lead_time": 5.866
+  },
+  {
+    "image": "/data/upload/4/00a7fea4-black-galaxy-s7-8-980x653.jpg",
+    "id": 230,
+    "label": [
+      {
+        "x": 10.714285714285714,
+        "y": 0.5357142857142857,
+        "width": 89.28571428571429,
+        "height": 94.28571428571426,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 980,
+        "original_height": 653
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 130,
+    "created_at": "2022-11-28T09:07:32.361182Z",
+    "updated_at": "2022-11-28T09:07:32.361286Z",
+    "lead_time": 49.502
+  },
+  {
+    "image": "/data/upload/4/09104e42-Bild_Apple_iPhone_14_Pro_Max_Intro.jpg",
+    "id": 229,
+    "label": [
+      {
+        "x": 2.944507361268403,
+        "y": 7.44466800804829,
+        "width": 96.14949037372594,
+        "height": 90.3420523138833,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 129,
+    "created_at": "2022-11-28T09:06:40.454364Z",
+    "updated_at": "2022-11-28T09:06:40.457546Z",
+    "lead_time": 20.286
+  },
+  {
+    "image": "/data/upload/4/88f11df6-Apple-iPhone-14-Pro-Max-01.jpg",
+    "id": 228,
+    "label": [
+      {
+        "x": 38.21428571428571,
+        "y": 8.571428571428571,
+        "width": 50,
+        "height": 88.03571428571428,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 600,
+        "original_height": 600
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 128,
+    "created_at": "2022-11-28T09:06:17.394274Z",
+    "updated_at": "2022-11-28T09:06:17.394274Z",
+    "lead_time": 29.166
+  },
+  {
+    "image": "/data/upload/4/11a19e8e-Apple-iPhone-14-Pro-iPhone-14-Pro-Max-deep-purple-220907_inline.jpg.large.jpg",
+    "id": 227,
+    "label": [
+      {
+        "x": 42.75,
+        "y": 14.821428571428571,
+        "width": 44.75,
+        "height": 79.64285714285714,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 653,
+        "original_height": 914
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 127,
+    "created_at": "2022-11-28T09:05:44.790943Z",
+    "updated_at": "2022-11-28T09:05:44.790943Z",
+    "lead_time": 11.703
+  },
+  {
+    "image": "/data/upload/4/d2f948e9-AndroidPIT-huawei-p30-lite-display.jpg",
+    "id": 226,
+    "label": [
+      {
+        "x": 32.61608154020385,
+        "y": 0.2012072434607646,
+        "width": 39.86409966024915,
+        "height": 99.79879275653923,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 4772,
+        "original_height": 2684
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 126,
+    "created_at": "2022-11-28T09:05:30.685599Z",
+    "updated_at": "2022-11-28T09:05:30.685599Z",
+    "lead_time": 21.04
+  },
+  {
+    "image": "/data/upload/4/22b64738-akrales_210917_4760_0175.jpg",
+    "id": 225,
+    "label": [
+      {
+        "x": 23.75,
+        "y": 5,
+        "width": 47.14285714285713,
+        "height": 87.14285714285714,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 1400,
+        "original_height": 1400
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 125,
+    "created_at": "2022-11-28T09:05:04.557609Z",
+    "updated_at": "2022-11-28T09:05:04.557609Z",
+    "lead_time": 14.582
+  },
+  {
+    "image": "/data/upload/4/f4aae261-akrales_190228_3255_0525.jpg",
+    "id": 224,
+    "label": [
+      {
+        "x": 27.519818799546997,
+        "y": 0,
+        "width": 51.41562853907134,
+        "height": 98.26839826839827,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 1200,
+        "original_height": 628
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 124,
+    "created_at": "2022-11-28T09:04:47.471204Z",
+    "updated_at": "2022-11-28T09:04:47.471204Z",
+    "lead_time": 13.215
+  },
+  {
+    "image": "/data/upload/4/de968009-aiphone14pm-cov-sho-sel-1-1152416-1665475427.jpg",
+    "id": 223,
+    "label": [
+      {
+        "x": 21.71052631578948,
+        "y": 2.3214285714285716,
+        "width": 51.8421052631579,
+        "height": 94.28571428571426,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 679,
+        "original_height": 500
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 123,
+    "created_at": "2022-11-28T09:04:32.700735Z",
+    "updated_at": "2022-11-28T09:04:32.700735Z",
+    "lead_time": 8.101
+  },
+  {
+    "image": "/data/upload/4/fa5fb5d8-ack.jpg",
+    "id": 222,
+    "label": [
+      {
+        "x": 13.368880961218009,
+        "y": 4.396775697821597,
+        "width": 47.017674566995545,
+        "height": 94.93038438478449,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 600,
+        "original_height": 340
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 122,
+    "created_at": "2022-11-28T09:04:22.692094Z",
+    "updated_at": "2022-11-28T09:04:22.692094Z",
+    "lead_time": 28.984
+  },
+  {
+    "image": "/data/upload/4/26375238-a5fc55e9-2dd4-43b9-a6b7-95c845d45471.png",
+    "id": 221,
+    "label": [
+      {
+        "x": 15.817694369973191,
+        "y": 11.607142857142858,
+        "width": 67.5603217158177,
+        "height": 80.71428571428572,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 700,
+        "original_height": 1050
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 121,
+    "created_at": "2022-11-28T09:03:50.786735Z",
+    "updated_at": "2022-11-28T09:03:50.786735Z",
+    "lead_time": 10.22
+  },
+  {
+    "image": "/data/upload/4/2553f6ae-1580296874-3457.jpg",
+    "id": 220,
+    "label": [
+      {
+        "x": 27.978580990629183,
+        "y": 5,
+        "width": 58.768406961178044,
+        "height": 91.78571428571426,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 620,
+        "original_height": 465
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 120,
+    "created_at": "2022-11-28T09:03:38.022431Z",
+    "updated_at": "2022-11-28T09:03:38.022431Z",
+    "lead_time": 16.918
+  },
+  {
+    "image": "/data/upload/4/f6033e97-302872424-400x300.jpeg",
+    "id": 219,
+    "label": [
+      {
+        "x": 17.959183673469386,
+        "y": 4.464285714285714,
+        "width": 69.38775510204081,
+        "height": 70.71428571428572,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 263,
+        "original_height": 600
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 119,
+    "created_at": "2022-11-28T09:03:19.443910Z",
+    "updated_at": "2022-11-28T09:03:19.443910Z",
+    "lead_time": 9.34
+  },
+  {
+    "image": "/data/upload/4/ca4952c7-19113358-0-image-a-11_1569862714533.jpg",
+    "id": 218,
+    "label": [
+      {
+        "x": 5.6689342403628125,
+        "y": 22.07547169811321,
+        "width": 89.22902494331065,
+        "height": 59.81132075471698,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 1908,
+        "original_height": 1146
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 118,
+    "created_at": "2022-11-28T09:03:07.820034Z",
+    "updated_at": "2022-11-28T09:03:07.820034Z",
+    "lead_time": 7.22
+  },
+  {
+    "image": "/data/upload/4/afa41870-162913-phones-review-sony-xperia-5-iv-review-image4-o7iso0u1fp.jpg",
+    "id": 217,
+    "label": [
+      {
+        "x": 41.30952380952381,
+        "y": 6.6071428571428585,
+        "width": 37.26190476190475,
+        "height": 67.85714285714286,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 2879,
+        "original_height": 1920
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 117,
+    "created_at": "2022-11-28T09:02:58.741872Z",
+    "updated_at": "2022-11-28T09:02:58.741872Z",
+    "lead_time": 19.167
+  },
+  {
+    "image": "/data/upload/4/2c5c69f8-162609-phones-review-hands-on-apple-iphone-14-pro-max-initial-review-t_8gBHTgM.jpg",
+    "id": 216,
+    "label": [
+      {
+        "x": 40.714285714285715,
+        "y": 2.5,
+        "width": 31.904761904761894,
+        "height": 92.85714285714286,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 2879,
+        "original_height": 1920
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 116,
+    "created_at": "2022-11-28T09:02:37.625511Z",
+    "updated_at": "2022-11-28T09:02:37.625511Z",
+    "lead_time": 9.565
+  },
+  {
+    "image": "/data/upload/4/fb21c8c3-142231-phones-review-iphone-8-plus-review-image1-cz02mm4xbh.jpg",
+    "id": 215,
+    "label": [
+      {
+        "x": 37.61904761904762,
+        "y": 10.535714285714286,
+        "width": 25.714285714285708,
+        "height": 77.32142857142857,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 1201,
+        "original_height": 801
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 115,
+    "created_at": "2022-11-28T09:02:25.255672Z",
+    "updated_at": "2022-11-28T09:02:25.255672Z",
+    "lead_time": 8.956
+  },
+  {
+    "image": "/data/upload/4/161eb951-142227-phones-review-iphone-x-review-photos-image1-ahdsiyvum0.jpg",
+    "id": 214,
+    "label": [
+      {
+        "x": 32.976190476190474,
+        "y": 1.9642857142857142,
+        "width": 32.976190476190474,
+        "height": 93.21428571428574,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 945,
+        "original_height": 630
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 114,
+    "created_at": "2022-11-28T09:02:13.332857Z",
+    "updated_at": "2022-11-28T09:02:13.332857Z",
+    "lead_time": 8.636
+  },
+  {
+    "image": "/data/upload/4/881003f6-104119-v1-samsung-galaxy-j7-prime-mobile-phone-large-2.jpg",
+    "id": 213,
+    "label": [
+      {
+        "x": 11.904761904761903,
+        "y": 1.4285714285714286,
+        "width": 74.2857142857143,
+        "height": 98.5714285714286,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 300,
+        "original_height": 400
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 113,
+    "created_at": "2022-11-28T09:02:01.323765Z",
+    "updated_at": "2022-11-28T09:02:01.323765Z",
+    "lead_time": 9.576
+  },
+  {
+    "image": "/data/upload/4/b7605d23-89311ed3iphone7s.jpg",
+    "id": 212,
+    "label": [
+      {
+        "x": 15.158371040723981,
+        "y": 2.142857142857143,
+        "width": 72.17194570135744,
+        "height": 93.39285714285714,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 900,
+        "original_height": 1139
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 112,
+    "created_at": "2022-11-28T09:01:50.279072Z",
+    "updated_at": "2022-11-28T09:01:50.280126Z",
+    "lead_time": 13.304
+  },
+  {
+    "image": "/data/upload/4/4a92e8dd-71197-phones-review-apple-iphone-3gs-image8-oampa3c61j.jpg",
+    "id": 211,
+    "label": [
+      {
+        "x": 39.71462544589774,
+        "y": 1.4285714285714286,
+        "width": 37.812128418549335,
+        "height": 90.71428571428571,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 1201,
+        "original_height": 800
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 111,
+    "created_at": "2022-11-28T09:01:35.160369Z",
+    "updated_at": "2022-11-28T09:01:35.160369Z",
+    "lead_time": 17.393
+  },
+  {
+    "image": "/data/upload/4/d4404374-1366_2000.jpg",
+    "id": 210,
+    "label": [
+      {
+        "x": 43.92857142857143,
+        "y": 7.5,
+        "width": 25.238095238095237,
+        "height": 86.96428571428572,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 1366,
+        "original_height": 911
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 110,
+    "created_at": "2022-11-28T09:01:15.112225Z",
+    "updated_at": "2022-11-28T09:01:15.112225Z",
+    "lead_time": 26.81
+  },
+  {
+    "image": "/data/upload/4/1c575db9-1200px-IPhone_1st_Gen.svg.png",
+    "id": 209,
+    "label": [
+      {
+        "x": 1.023890784982935,
+        "y": 0,
+        "width": 98.97610921501706,
+        "height": 100,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 1200,
+        "original_height": 2291
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 109,
+    "created_at": "2022-11-28T09:00:45.035095Z",
+    "updated_at": "2022-11-28T09:00:45.036093Z",
+    "lead_time": 8.405
+  },
+  {
+    "image": "/data/upload/4/3ab2a6f5-415WmwGkIjL._AC_.jpg",
+    "id": 208,
+    "label": [
+      {
+        "x": 41.05960264900662,
+        "y": 6.785714285714286,
+        "width": 43.4878587196468,
+        "height": 92.3214285714286,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 401,
+        "original_height": 496
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 108,
+    "created_at": "2022-11-28T09:00:33.397815Z",
+    "updated_at": "2022-11-28T09:00:33.397815Z",
+    "lead_time": 9.776
+  },
+  {
+    "image": "/data/upload/4/ba13d4e7-99-hero.jpg",
+    "id": 207,
+    "label": [
+      {
+        "x": 36.69309173272934,
+        "y": 2.61569416498994,
+        "width": 26.500566251415634,
+        "height": 90.14084507042254,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 1280,
+        "original_height": 720
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 107,
+    "created_at": "2022-11-28T09:00:21.983352Z",
+    "updated_at": "2022-11-28T09:00:21.986366Z",
+    "lead_time": 7.301
+  },
+  {
+    "image": "/data/upload/4/f4a8dbfc-61sfcfC8rDL.jpg",
+    "id": 206,
+    "label": [
+      {
+        "x": 4.535147392290249,
+        "y": 5.283018867924529,
+        "width": 92.17687074829932,
+        "height": 92.26415094339623,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 1240,
+        "original_height": 745
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 106,
+    "created_at": "2022-11-28T09:00:13.037612Z",
+    "updated_at": "2022-11-28T09:00:13.037612Z",
+    "lead_time": 48.203
+  },
+  {
+    "image": "/data/upload/4/910465e7-47bfd385-huawei-p30-lite-un-milieu-de-gamme-aux-finitions-exemplaires_a2RYyWJ.jpeg",
+    "id": 205,
+    "label": [
+      {
+        "x": 20.481927710843372,
+        "y": 6.785714285714286,
+        "width": 30.655957161981252,
+        "height": 71.25,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 1200,
+        "original_height": 900
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 105,
+    "created_at": "2022-11-28T08:59:23.258035Z",
+    "updated_at": "2022-11-28T08:59:23.258035Z",
+    "lead_time": 12.152
+  },
+  {
+    "image": "/data/upload/4/06d42a9e-8faae640-8f8f-11ec-a5dd-5a09a0825945.jpeg",
+    "id": 204,
+    "label": [
+      {
+        "x": 35.11904761904761,
+        "y": 5.178571428571429,
+        "width": 26.071428571428573,
+        "height": 82.5,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 2000,
+        "original_height": 1333
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 104,
+    "created_at": "2022-11-28T08:59:09.008623Z",
+    "updated_at": "2022-11-28T08:59:09.008623Z",
+    "lead_time": 10.291
+  },
+  {
+    "image": "/data/upload/4/4146a109-7b6c59588d0b.jpg",
+    "id": 203,
+    "label": [
+      {
+        "x": 25.35714285714285,
+        "y": 7.321428571428571,
+        "width": 50,
+        "height": 90,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 400,
+        "original_height": 400
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 103,
+    "created_at": "2022-11-28T08:58:56.520516Z",
+    "updated_at": "2022-11-28T08:58:56.520516Z",
+    "lead_time": 14.361
+  },
+  {
+    "image": "/data/upload/4/793d4254-3e0be510-bf18-11ec-bffc-95264be601e5.jpeg",
+    "id": 202,
+    "label": [
+      {
+        "x": 34.65458663646659,
+        "y": 3.079710144927537,
+        "width": 28.199320498301244,
+        "height": 94.20289855072464,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 1600,
+        "original_height": 1000
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 102,
+    "created_at": "2022-11-28T08:58:39.390702Z",
+    "updated_at": "2022-11-28T08:58:39.390702Z",
+    "lead_time": 19.808
+  },
+  {
+    "image": "/data/upload/4/e5b38b1b-0-78880-iphone-8-5-xl.jpg",
+    "id": 201,
+    "label": [
+      {
+        "x": 16.915422885572145,
+        "y": 2.142857142857143,
+        "width": 51.49253731343285,
+        "height": 91.42857142857143,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Telephone"
+        ],
+        "original_width": 1280,
+        "original_height": 892
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 101,
+    "created_at": "2022-11-28T08:58:17.243102Z",
+    "updated_at": "2022-11-28T08:58:17.243102Z",
+    "lead_time": 33.203
+  }
+]
